@@ -4,7 +4,7 @@ macOS Sequoia on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
 
 # Screenshots
 <a href="https://github.com/skenakun/ryzentosh-acer-aspire-5-A515-45/blob/main/Sequoia.jpg
-"> <img src="Ventura.jpg" alt="light mode"></a>
+"> <img src="Sequoia.jpg" alt="light mode"></a>
 
 <!--
 
@@ -14,10 +14,10 @@ macOS Sequoia on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
 
 | Specifications      | Details                                            |
 | ------------------- | -------------------------------------------------- |
-| Laptop Model        | Aspire 5 a515-45                                   |
+| Laptop Model        | Aspire 5 A515-45                                   |
 | Processor           | AMD Ryzen 5 5500U                                  |
 | Graphics            | AMD Radeon Graphics                                |
-| RAM                 | 16GB DDR4-2666Mhz                                  |
+| RAM                 | 20GB DDR4-3200Mhz                                  |
 | Disk                | RX7 ITB NVME SSD                                   |
 | Audio               | Realtek HD Audio ALC256                            |
 | Wifi                | Mediatek MT7921LE                                  |
