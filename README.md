@@ -1,10 +1,10 @@
-# Acer Aspire 5 A515-46 Ryzentosh Sequoia
+# Acer Aspire 5 A515-45 Ryzentosh Sequoia
 
 macOS Sequoia on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
 
 # Screenshots
-<a href="https://github.com/skenakun/ryzentosh-acer-aspire-5-A515-45/blob/main/Sequoia.jpg
-"> <img src="Sequoia.jpg" alt="light mode"></a>
+<a href="https://github.com/skenakun/ryzentosh-acer-aspire-5-A515-45/blob/main/Sequoia.png
+"> <img src="Sequoia.png" alt="light mode"></a>
 
 <!--
 
@@ -41,6 +41,7 @@ macOS Sequoia on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
 
 - [ ] WIFI I use dongle WIFI USB
 - [ ] HDMI port Audio
+- [ ] 3.5 External jackaudio microphone
 
 ## Fix Google Chrome crash on AMD Radeon GPU
 - [ ] You can check https://chefkissinc.github.io/applehax/nootedred/
