@@ -1,10 +1,13 @@
-# Acer Aspire 5 A515-45 Ryzentosh Sequoia
+# EFI Hackintosh Acer Aspire 5 A515-45
 
-macOS Sequoia on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
+EFI Hackintosh on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
 
 # Screenshots
 <a href="https://github.com/skenakun/ryzentosh-acer-aspire-5-A515-45/blob/main/Sequoia.png
-"> <img src="Sequoia.png" alt="light mode"></a>
+"> <img src="Sonoma.png" alt="Sonoma"></a>
+
+<a href="https://github.com/skenakun/ryzentosh-acer-aspire-5-A515-45/blob/main/Sequoia.png
+"> <img src="Sequoia.png" alt="Sequoia"></a>
 
 <!--
 
@@ -37,6 +40,9 @@ macOS Sequoia on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
 - [x] iServices (Messages, FaceTime, etc.)
 
 
+## Important Tips
+On sequoia Sometimes the audio suddenly gone when I use audio from audio jack. The solution is to open settings and stay on Mic Input, then change into Line In.
+
 ## What's not working
 
 - [ ] WIFI I use dongle WIFI USB
@@ -49,7 +55,7 @@ macOS Sequoia on Acer Aspire 5 A515-45 AMD Ryzen 5 5500U with Radeon Graphics.
 ## Credits
 
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC), [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg),  [Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooInput](https://github.com/acidanthera/VoodooInput), and [VoodooPS2](https://github.com/acidanthera/VoodooPS2).
-- Thanks to (https://github.com/ChefKissInc/NootedRed) for AMD Radeon Graphics driver
+- Thanks to [NootedRed](https://github.com/ChefKissInc/NootedRed) for AMD Radeon Graphics driver
 - Thanks to [alexandred](https://github.com/alexandred) for providing [VoodooI2C](https://github.com/alexandred/VoodooI2C).
 - Thanks to [corpnewt](https://github.com/corpnewt) for providing [USBMap](https://github.com/corpnewt/USBMap) and [ProperTree](https://github.com/corpnewt/ProperTree).
 - Thanks to [zxystd](https://github.com/zxystd) for providing [itlwm](https://github.com/OpenIntelWireless/itlwm) and [IntelBluetoothFirmware](https://github.com/zxystd/IntelBluetoothFirmware).
